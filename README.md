@@ -9,7 +9,7 @@ This is a movie application that utilizes the [TMDB (The Movie Database)](https:
 - **Movie Listing:** Display a list of movies with key information.
 - **Movie Details:** View detailed information about a specific movie.
 - **Search Functionality:** Search for movies based on title, genre, or other criteria.
-- **Responsive Design:** Ensure a seamless experience on various devices.
+- **Responsive Design:** Ensure a seamless experience on various devices
 
 
 
