@@ -81,8 +81,8 @@
 }
 
 #search {
-    width: 500px;
-    padding: 5px 30px;
+    width: 400px;
+    padding: 4px 30px;
     
     /* background-color: rgba(51, 102, 153, 0.7); */
     outline: none;
@@ -92,13 +92,14 @@
     margin-top: 10px;
     font-size: 30px;
     border-radius: 25px;
-    transition: 1s;
+    transition: .4s;
     margin-bottom: 15px;
 }
 
 #search:focus {
     background-color: white;
     color: black;
+    outline: 2px solid #ff004f;
 }
 
 @media screen and (max-width: 450px) {
